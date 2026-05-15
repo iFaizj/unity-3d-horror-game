@@ -42,16 +42,6 @@ This project focuses on creating an immersive horror experience through:
 
 ---
 
-## Documentation
-
-Project report included in:
-
-```text
-/report/
-```
-
----
-
 ## Notes
 
 This project was developed as part of a multimedia/game development learning experience.
